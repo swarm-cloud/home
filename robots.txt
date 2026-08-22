@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://docs.cdnbye.com/sitemap.xml
+Sitemap: https://www.cdnbye.com/sitemap.xml
+Sitemap: https://www.swarmcloud.net/sitemap.xml
